@@ -1,0 +1,4 @@
+method,total_distance_km,distance_reduction_vs_random
+Nearest Neighbor,532.4767210742577,0.3252642906125405
+Nearest Neighbor + 2-opt,532.4767210742577,0.3252642906125405
+Random Baseline,789.1633919266734,0.0
